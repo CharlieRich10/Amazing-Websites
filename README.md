@@ -8,3 +8,7 @@ Here's my personal list of useful / cool websites I've been collecting for a whi
 # Editing Tools
 
 - photopea.com - A free online photoshop alternative which even supports .psd files
+
+# Customisation
+
+- wallrice.xyz - Colourises wallpapers with your own colour pallette
