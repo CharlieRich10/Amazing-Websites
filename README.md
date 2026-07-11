@@ -9,6 +9,14 @@ Here's my personal list of useful / cool websites I've been collecting for a whi
 
 - photopea.com - A free online photoshop alternative which even supports .psd files
 
+- ilovepdf.com - Free online PDF editor that's actually good.
+
 # Customisation
 
 - wallrice.xyz - Colourises wallpapers with your own colour pallette
+
+# Piracy
+
+- nyaa.si - Anime movie and TV torrents.
+
+- monkrus.ws - Adobe and Microsoft software torrents.
